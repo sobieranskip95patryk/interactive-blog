@@ -1,0 +1,10 @@
+body{margin:0;font-family:system-ui;background:#f0f2f5}
+.cover{height:260px;position:relative;background:#000}
+.cover img{width:100%;height:100%;object-fit:cover}
+.avatar{position:absolute;bottom:-40px;left:20px;width:90px;height:90px}
+.avatar img{width:100%;height:100%;border-radius:50%;border:4px solid #fff}
+.profile{padding:60px 20px}
+button{background:#1877f2;color:#fff;border:0;padding:10px 16px;border-radius:8px;cursor:pointer}
+main{max-width:700px;margin:auto;padding:20px}
+.post{background:#fff;border-radius:12px;padding:15px;margin-bottom:16px}
+.post img,.post video{width:100%;margin-top:10px;border-radius:10px}
